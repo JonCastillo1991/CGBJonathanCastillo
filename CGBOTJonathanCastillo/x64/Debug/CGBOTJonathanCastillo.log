@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\JonCa\source\repos\CGBOTJonathanCastillo\CGBOTJonathanCastillo\Source.cpp(17,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\JonCa\source\repos\CGBOTJonathanCastillo\CGBOTJonathanCastillo\Source.cpp(130,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\JonCa\source\repos\CGBOTJonathanCastillo\CGBOTJonathanCastillo\Source.cpp(131,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CGBOTJonathanCastillo.vcxproj -> C:\Users\JonCa\source\repos\CGBOTJonathanCastillo\x64\Debug\CGBOTJonathanCastillo.exe
